@@ -1,6 +1,6 @@
 # Welcome to my gallery of [Chart Glimpses](https://www.gitclear.com/help/share_progress_status_update_via_chart_glimpse_overview). 
 
-You can set up your own Chart Glimpse -- free forever -- over at GitClear.  
+You can set up your own Chart Glimpse -- [free forever](https://www.gitclear.com/pricing) -- over at [GitClear](https://www.gitclear.com).  
 
 ## What I've been working on the past few days
 <a href='https://www.gitclear.com' target='_blank'><img src='https://www.gitclear.com/chart_glimpses/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png' /></a>
