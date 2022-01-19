@@ -12,4 +12,4 @@ The quantity being graphed by these charts is Line Impact -- see [docs](https://
 ## What I've been working on over the past year
 <a href='https://www.gitclear.com' target='_blank'><img src='https://www.gitclear.com/chart_glimpses/547b696c-4872-4b2c-90b7-c1e5079ac533.png' /></a>
 
-The picture of me and the unicorn is courtesy of the now defunct Background Burner, a product I built in 2014 to remove images from backgrounds (and replace them with funnier backgrounds). I hope to open source it when the opportunity allows.
+The picture of me and the unicorn is courtesy of the now defunct Background Burner, a product I built in 2014 to remove images from backgrounds (and optionally replace them with funnier backgrounds). I hope to open source it if time allows.
