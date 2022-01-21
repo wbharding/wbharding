@@ -8,7 +8,7 @@ The quantity being graphed by these charts is Line Impact -- see [docs](https://
 
 ### Jan 20 Update
 
-I've set an ephemeral cache control for the redirect image, and a `no-cache` cache control header for the image content itself. I can see that for one of the three images GH is marking it as `no-cache`, but the other two still have a pretty long cache period, so we're getting closer but not yet proven. 
+I've set an ephemeral cache control for the redirect image, and a `no-cache` cache control header for the image content itself. I can see that all three images are now marked as having the `no-cache` header on Github, so I am cautiously optimistic these will continue to update automatically w/o teats to pull nor hay to pitch. 🤞
 
 ## What I've been working on the past few days
 <a href='https://www.gitclear.com' target='_blank'><img src='https://www.gitclear.com/chart_glimpses/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png' /></a>
