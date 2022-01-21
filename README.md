@@ -6,6 +6,10 @@ As of January 18 I'm still evaluating how often Github refreshes these images. O
 
 The quantity being graphed by these charts is Line Impact -- see [docs](https://www.gitclear.com/line_impact_factors) or [two-minute Line Impact explainer](https://www.youtube.com/watch?v=uW4n3AfEdhI&t=95s). 
 
+### Jan 20 Update
+
+I've set an ephemeral cache control for the redirect image, and a `no-cache` cache control header for the image content itself. I can see that for one of the three images GH is marking it as `no-cache`, but the other two still have a pretty long cache period, so we're getting closer but not yet proven. 
+
 ## What I've been working on the past few days
 <a href='https://www.gitclear.com' target='_blank'><img src='https://www.gitclear.com/chart_glimpses/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png' /></a>
 
