@@ -12,6 +12,10 @@ Are you a dev that wants these? [Sign up for free](https://www.gitclear.com/pric
 
 I've set an ephemeral cache control for the redirect image, and a `no-cache` cache control header for the image content itself. I can see that all three images are now marked as having the `no-cache` header on Github, so I am cautiously optimistic these will continue to update automatically w/o teats to pull nor hay to pitch. 🤞
 
+### Jan 25 Update
+
+An inopportunely timed server Ubuntu upgrade managed to knock out Chart Glimpses for most of today, but they're now back and we can verify that they seem to be automatically updating here at least daily. Exciting times! 😊
+
 ## What I've been working on the past few days
 <a href='https://www.gitclear.com' target='_blank'><img src='https://www.gitclear.com/chart_glimpses/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png' /></a>
 
