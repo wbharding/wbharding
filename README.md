@@ -14,7 +14,7 @@ I've set an ephemeral cache control for the redirect image, and a `no-cache` cac
 
 ### Jan 25 Update
 
-An inopportunely timed Ubuntu upgrade managed to knock out Chart Glimpses for most of today, but now we're back online and we can verify that the pictures below did indeed refresh to broken when our server was out...which means the charts are now auto-refreshing 😰😓😅😆
+An inopportunely timed Ubuntu upgrade managed to knock out Chart Glimpses for most of today, but now we're back online and we can verify that the pictures below did indeed refresh to broken when our server was out...which means the charts are now auto-refreshing 😓😰😅😆
 
 ## What I've been working on the past few days
 <a href='https://www.gitclear.com' target='_blank'><img src='https://www.gitclear.com/chart_glimpses/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png' /></a>
