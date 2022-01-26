@@ -2,15 +2,9 @@
 
 You can set up your own Chart Glimpse -- [free forever](https://www.gitclear.com/pricing) -- over at [GitClear](https://www.gitclear.com).  
 
-As of January 18 I'm still evaluating how often Github refreshes these images. On the GitClear side, the image content will change every hour. Need to ensure Github respects the cache interval, hopefully [without tricks](https://stackoverflow.com/questions/26898052/how-to-force-image-cache-update-in-readme-rst-on-github).
-
 The quantity being graphed by these charts is Line Impact -- see [docs](https://www.gitclear.com/line_impact_factors) or [two-minute Line Impact explainer](https://www.youtube.com/watch?v=uW4n3AfEdhI&t=95s). 
 
 Are you a dev that wants these? [Sign up for free](https://www.gitclear.com/pricing). We don't charge for dev/hobbyist plans + [comparatively cheap for commercial use](https://www.gitclear.com/developer_analytics_pricing_comparison). [Here is how you designate a commit or issue to be published to the graph](https://www.gitclear.com/help/publish_work_via_chart_glimpse).
-
-### Jan 20 Update
-
-I've set an ephemeral cache control for the redirect image, and a `no-cache` cache control header for the image content itself. I can see that all three images are now marked as having the `no-cache` header on Github, so I am cautiously optimistic these will continue to update automatically w/o teats to pull nor hay to pitch. 🤞
 
 ### Jan 25 Update
 
