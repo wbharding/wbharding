@@ -16,5 +16,6 @@ GitClear updates these charts with fresh data every hour. Empirically, GitHub se
 
 ## Entire programming career since signing up for GitHub 🐙
 <a href='https://www.gitclear.com' target='_blank'><img src='https://www.gitclear.com/chart_glimpses/46448a31-5a86-4785-8ec8-3457d925905c.png' /></a>
+* Note that the final year is a projected estimate, derived by taking this year's Line Impact velocity and multiplying it by the fraction of the year still to come.
 
 [The first empirical study published on Line Impact showed that it correlates with completed Story Points about 40% better than the next best git metric, Commit Count](https://www.gitclear.com/blog/line_impact_research_suggests_high_story_point_correlation_relative_to_other_git_metrics).
