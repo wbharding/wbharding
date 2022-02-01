@@ -14,7 +14,7 @@ GitClear updates these charts with fresh data every hour. Empirically, GitHub se
 ## GitClear releases over the past year
 <a href='https://www.gitclear.com' target='_blank'><img src='https://www.gitclear.com/chart_glimpses/547b696c-4872-4b2c-90b7-c1e5079ac533.png' /></a>
 
-## My entire programming career since adopting git 🐙
+## Entire programming career since signing up for GitHub 🐙
 <a href='https://www.gitclear.com' target='_blank'><img src='https://www.gitclear.com/chart_glimpses/46448a31-5a86-4785-8ec8-3457d925905c.png' /></a>
 
-The picture of me and the unicorn is courtesy of the now defunct Background Burner, a product I built in 2014 to remove images from backgrounds (and optionally replace them with funnier backgrounds). I hope to open source it if time allows.
+[The first empirical study published on Line Impact showed that it correlates with completed Story Points about 40% better than the next best git metric, Commit Count](https://www.gitclear.com/blog/line_impact_research_suggests_high_story_point_correlation_relative_to_other_git_metrics).
