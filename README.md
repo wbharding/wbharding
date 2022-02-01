@@ -6,9 +6,7 @@ The quantity being graphed by these charts is Line Impact -- see [docs](https://
 
 Are you a dev that wants these? [Sign up for free](https://www.gitclear.com/pricing). We don't charge for dev/hobbyist plans + [comparatively cheap for commercial use](https://www.gitclear.com/developer_analytics_pricing_comparison). [Here is how you designate a commit or issue to be published to the graph](https://www.gitclear.com/help/publish_work_via_chart_glimpse).
 
-### Jan 25 Update
-
-An inopportunely timed Ubuntu upgrade managed to knock out Chart Glimpses for most of today, but now we're back online and we can verify that the pictures below did indeed refresh to broken when our server was out...which means the charts are now auto-refreshing 😓😰😅😆
+GitClear updates these charts with fresh data every hour. Empirically, GitHub seems to cache them for about half a day at a time.
 
 ## What I've been working on the past few days
 <a href='https://www.gitclear.com' target='_blank'><img src='https://www.gitclear.com/chart_glimpses/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png' /></a>
