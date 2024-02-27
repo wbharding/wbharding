@@ -14,7 +14,7 @@ GitClear updates these charts with fresh data every hour. Empirically, GitHub se
 ## GitClear releases over the past year
 <a href='https://www.gitclear.com' target='_blank'><img src='https://www.gitclear.com/chart_glimpses/547b696c-4872-4b2c-90b7-c1e5079ac533.png' /></a>
 
-## Entire programming career since signing up for GitHub 🐙
+## My entire programming career since signing up for GitHub 🐙
 <a href='https://www.gitclear.com' target='_blank'><img src='https://www.gitclear.com/chart_glimpses/46448a31-5a86-4785-8ec8-3457d925905c.png' /></a>
 * Note that the final year is a projected estimate, derived by taking this year's Line Impact velocity and multiplying it by the fraction of the year still to come.
 
