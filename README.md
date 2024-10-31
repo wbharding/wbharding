@@ -8,7 +8,7 @@ Are you a dev that wants these? [Sign up for free](https://www.gitclear.com/pric
 
 GitClear updates these charts with fresh data every hour. Empirically, GitHub seems to cache them for about half a day at a time.
 
-## What I've been working on the past few days
+## What I've been working on lately
 <a href='https://www.gitclear.com' target='_blank'><img src='https://www.gitclear.com/chart_glimpses/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png' /></a>
 
 ## GitClear releases over the past year
