@@ -9,13 +9,13 @@ Want to see what your AI-generated changelog looks like? [Sign up via this page]
 GitClear updates these charts with fresh data every hour. Empirically, GitHub seems to cache them for about half a day at a time.
 
 ## What I've been working on lately
-<a href='https://www.gitclear.com/chart_glimpses/b02dd34c-b375-42b5-a1c0-bbfaac42917b' target='_blank'><img src='https://www.gitclear.com/chart_glimpses/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png' /></a>
+<a href='https://www.gitclear.com/snap_changelogs/b02dd34c-b375-42b5-a1c0-bbfaac42917b' target='_blank'><img src='https://www.gitclear.com/snap_changelogs/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png' /></a>
 
 ## GitClear releases over the past year
-<a href='https://www.gitclear.com/chart_glimpses/547b696c-4872-4b2c-90b7-c1e5079ac533' target='_blank'><img src='https://www.gitclear.com/chart_glimpses/547b696c-4872-4b2c-90b7-c1e5079ac533.png' /></a>
+<a href='https://www.gitclear.com/snap_changelogs/547b696c-4872-4b2c-90b7-c1e5079ac533' target='_blank'><img src='https://www.gitclear.com/snap_changelogs/547b696c-4872-4b2c-90b7-c1e5079ac533.png' /></a>
 
 ## My entire programming career since signing up for GitHub 🐙
-<a href='https://www.gitclear.com/chart_glimpses/46448a31-5a86-4785-8ec8-3457d925905c' target='_blank'><img src='https://www.gitclear.com/chart_glimpses/46448a31-5a86-4785-8ec8-3457d925905c.png' /></a>
+<a href='https://www.gitclear.com/snap_changelogs/46448a31-5a86-4785-8ec8-3457d925905c' target='_blank'><img src='https://www.gitclear.com/snap_changelogs/46448a31-5a86-4785-8ec8-3457d925905c.png' /></a>
 * Note that the final year is a projected estimate, derived by taking this year's Diff Delta velocity and multiplying it by the fraction of the year still to come.
 
 [The first empirical study published on Diff Delta showed that it correlates with completed Story Points about 40% better than the next best git metric, Commit Count](https://www.gitclear.com/blog/research_suggests_diff_delta_has_higher_correlation_with_software_effort_than_other_git_metrics).
