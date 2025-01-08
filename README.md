@@ -1,4 +1,4 @@
-# Welcome to my gallery of [Snap Changelogs](https://www.gitclear.com/github_profile_dynamic_readme_free). 
+# Welcome to my gallery of [Live-Updating Visual Changelogs](https://www.gitclear.com/github_profile_dynamic_readme_free). 
 
 You can set up your own Snap Changelog -- [free for your first three repos](https://www.gitclear.com/pricing) -- over at [GitClear](https://www.gitclear.com).  
 
